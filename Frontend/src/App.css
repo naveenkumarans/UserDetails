@@ -1,0 +1,19 @@
+.snackbar {
+    position: fixed;
+    bottom: 16px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #323232; /* Dark background color */
+    color: #fff; /* White text color */
+    padding: 14px 24px; /* Adjust padding for better appearance */
+    border-radius: 4px;
+    font-size: 16px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle box shadow */
+    cursor: pointer;
+    transition: opacity 0.3s ease;
+  }
+  
+  .snackbar:hover {
+    opacity: 0.8;
+  }
+  
