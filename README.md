@@ -32,7 +32,7 @@ The frontend application utilizes React, a JavaScript library for building user 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/naveenkumarans/UserDetails/tree/master/FrontEnd
+    git clone https://github.com/naveenkumarans/UserDetails.git
     cd UserDetails
     npm install
     ```
@@ -70,7 +70,7 @@ The backend application, built with Spring Boot, serves as the core of the log m
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/naveenkumarans/UserDetaiks/tree/master/Backend
+    git clone https://github.com/naveenkumarans/UserDetails.git
     mvn clean install
     ```
 
