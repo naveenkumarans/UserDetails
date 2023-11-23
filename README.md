@@ -55,7 +55,7 @@ The backend application, built with Spring Boot, serves as the core of the log m
 
 - **Spring Boot:** Framework for building Java-based enterprise applications.
 - **Spring Data MongoDB:** Simplifies data access using Mongo and Spring.
-- **MongoDB:** Database for storing log data.
+- **MongoDB:** Database for storing User data.
 
 ### Getting Started
 
