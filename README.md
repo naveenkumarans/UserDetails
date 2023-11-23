@@ -1,6 +1,6 @@
 # User Details Application
 
-Welcome to the User Details Application repository! This comprehensive User Details management system is built with Spring Boot for the backend, React for the frontend, and Mongo for database management. The system enables users to view and edit their profile, providing a centralized platform for effectively managing and tracking system events.
+Welcome to the User Details Application repository! This comprehensive User Details management system is built with Spring Boot for the backend, React for the frontend, and Mongo for database management. The system enables users to view and edit their profile, providing a centralized platform for effectively managing and editing system events.
 
 ## System Architecture
 
