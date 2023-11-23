@@ -15,13 +15,13 @@ Frontend for a React-based User Detail management system. Allows users to view, 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/naveenkumarans/log-app-frontend.git
+   git clone https://github.com/naveenkumarans/UserDetails.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd log-app-frontend
+   cd UserDetails
    ```
 
 3. **Install dependencies:**
