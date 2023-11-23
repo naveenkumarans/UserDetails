@@ -1,8 +1,8 @@
-# React Log Application Frontend
+# React UserDetails Application Frontend
 
 ## Overview
 
-Frontend for a React-based log management system. Allows users to view, filter, add, and delete logs.
+Frontend for a React-based User Detail management system. Allows users to view, add, and update Details.
 
 ## Getting Started
 
