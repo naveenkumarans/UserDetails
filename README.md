@@ -4,7 +4,7 @@ Welcome to the User Details Application repository! This comprehensive User Deta
 
 ## System Architecture
 
-The User management system employs a layered architecture, separating the backend and frontend components for enhanced maintainability and extensibility. The backend, powered by Spring Boot, handles data storage, retrieval, and logic, while the frontend, built with React, provides a user-friendly interface for interacting with the log data.
+The User management system employs a layered architecture, separating the backend and frontend components for enhanced maintainability and extensibility. The backend, powered by Spring Boot, handles data storage, retrieval, and logic, while the frontend, built with React, provides a user-friendly interface for interacting with the data.
 
 ---
 
